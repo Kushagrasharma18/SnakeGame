@@ -1,2 +1,2 @@
 # SnakeGame
-Designed a basic snake game using html, css, javascript
+Designed a basic Snake Game using html, css, javascript
